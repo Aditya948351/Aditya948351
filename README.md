@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on [Machine Learning](AI Virtual Mouse)
+- 👯 I’m looking to collaborate on **Android App Development** and **Machine Learning** for now.
 
 - 📫 How to reach me **https://www.instagram.com/aditya516227?igsh=MXQ4MjJ6NnR6Z241Ng==**
 
