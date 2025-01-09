@@ -31,11 +31,9 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aditya948351&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko" style="position: right;">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya948351)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya948351&" alt="aditya948351" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya948351&" alt="aditya948351" />
