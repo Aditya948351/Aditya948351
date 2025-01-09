@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya948351&show_icons=true&locale=en&layout=compact" alt="aditya948351" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya948351&show_icons=true&locale=en" alt="aditya948351" /></p>
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya948351)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya948351&" alt="aditya948351" /></p>
