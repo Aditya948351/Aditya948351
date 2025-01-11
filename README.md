@@ -35,9 +35,6 @@
 
 
 ### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Aditya948351&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko" style="position: right;">
-
-
-###
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya948351&" alt="aditya948351" />
