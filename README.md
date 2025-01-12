@@ -35,6 +35,8 @@
 
 
 ### 🔝 Top Contributed Repositories
+<div >
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya948351&" alt="aditya948351" />
+</div>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko" style="position: right;">
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya948351&" alt="aditya948351" />
