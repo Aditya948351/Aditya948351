@@ -70,8 +70,14 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya948351&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya948351&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="Top Languages" />
+
+
+  <p>
+    <br>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aditya948351&layout=compact&theme=dark" alt="Top Languages">
+    <br>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aditya948351&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
 </div>
 
 ---
