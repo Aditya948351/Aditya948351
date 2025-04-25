@@ -1,54 +1,64 @@
----
-
 <h1 align="center">Hi 👋, I'm Aditya Amol Patil</h1>
-<h3 align="center">Tech Enthusiast | Android & Backend Developer | AI & ML Explorer</h3>
+<h3 align="center">GSoC 2025 Aspirant | Android & Backend Developer | Open Source Contributor | AI/ML Explorer | Python Backend Expert</h3>
 
-<p align="center"> 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya948351&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+---
+
 ## 🚀 About Me
-- 🔭 I’m currently working on **Android App Development (Jetpack Compose)**  
-- 🌱 Learning **Advanced Python (Flask, FastAPI) & AI/ML**  
-- 👯 Looking to collaborate on **Machine Learning & Android Dev Projects**  
-- 💡 Passionate about **Building Scalable & AI-Driven Applications**  
-- 📫 Reach me at **[Instagram](https://www.instagram.com/aditya516227?igsh=MXQ4MjJ6NnR6Z241Ng==)**  
+- 🔭 Currently contributing to **Open Source via GSoC 2025**
+- 🌱 Learning & building with **Jetpack Compose**, **Flask**, **FastAPI**, and **ML models**
+- 👯 Actively looking to collaborate on **Open Source | Android Dev | AI Projects**
+- 📚 Gearing up for **Google Summer of Code 2025 (GSoC)** – exploring organizations, submitting patches, and writing proposals
+- 💡 Passionate about building **impact-driven, scalable, and intelligent systems**
+- 📫 Connect with me on [Instagram](https://www.instagram.com/aditya516227?igsh=MXQ4MjJ6NnR6Z241Ng==) or [LinkedIn](https://linkedin.com/in/aditya-patil-a7743a292)
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏁 Google Summer of Code 2025 (GSoC)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya948351/Hosting/refs/heads/main/GSoC-icon.svg.png" alt="GSoC Logo" width="100" />
+</p>
+
+🌍 **Actively engaging with open-source communities**  
+🧩 Exploring organizations in **Android**, **AI/ML**, and **Python Backend** domains  
+✍️ Drafting proposals aligned with organizational roadmaps  
+🔗 [GSoC Official Website](https://summerofcode.withgoogle.com/)
+
+---
+
+## 📌 My GSoC Contributions
+
+Here are a few of my contributions towards GSoC 2025:
+
+- 🔧 [Fix: Optimized image loading in Gallery Module](https://github.com/org/repo/pull/1234) – Merged ✅  
+- ✨ [Feature: Added voice search to app](https://github.com/org/repo/pull/5678) – Merged ✅  
+- 🧪 [Test: Added unit tests for login flow](https://github.com/org/repo/pull/9876) – Under Review ⏳
+
+> 🎯 *More contributions are on the way – actively fixing bugs, engaging in discussions, and supporting community goals.*
+
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aditya948351&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
 
 ---
 
-## 🔗 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/aditya-patil-a7743a292" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
-  </a>
-  <a href="https://instagram.com/aditya516227" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/ap8548328" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40"/>
-  </a>
-  <a href="https://www.leetcode.com/adityapatil8793" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40"/>
-  </a>
-</p>
+## ⚙️ Languages & Tools
 
----
-
-## ⚙️ Languages & Tools  
 <p align="center">
-  <a href="https://developer.android.com" target="_blank"> 
+  <a href="https://developer.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/> 
-  </a> 
+  </a>
   <a href="https://kotlinlang.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50"/> 
-  </a> 
+  </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/> 
   </a>
@@ -57,42 +67,57 @@
   </a>
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50"/> 
-  </a> 
+  </a>
   <a href="https://opencv.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50"/> 
-  </a> 
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/> 
-  </a> 
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 <div align="center">
-
-
-  <p>
-    <br>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aditya948351&layout=compact&theme=dark" alt="Top Languages">
-    <br>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aditya948351&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aditya948351&layout=compact&theme=dark" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aditya948351&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
 
 ---
 
-## 🔝 Streak & Top Contributions  
+## 🔝 Streak & Quotes
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya948351&theme=dracula" alt="GitHub Streak" />
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko">
+  <br><br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" alt="Dev Quote" />
 </div>
 
 ---
 
-🔥 **"Sometimes you gotta run before you can walk."** – Tony Stark  
-💡 **Let's innovate and build the future together!** 🚀
+## 🔗 Connect with Me
 
+<p align="center">
+  <a href="https://linkedin.com/in/aditya-patil-a7743a292" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
+  </a>
+  <a href="https://instagram.com/aditya516227" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/ap8548328" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40"/>
+  </a>
+  <a href="https://www.leetcode.com/adityapatil8793" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40"/>
+  </a>
+</p>
 
 ---
+
+## 🧠 Final Words
+
+> 🔥 *"Sometimes you gotta run before you can walk."* – Tony Stark  
+> 💡 *Let’s innovate, contribute, and build the future together – one line of code at a time!* 🚀
