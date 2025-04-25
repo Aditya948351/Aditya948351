@@ -16,31 +16,17 @@
 - 📫 Connect with me on [Instagram](https://www.instagram.com/aditya516227?igsh=MXQ4MjJ6NnR6Z241Ng==) or [LinkedIn](https://linkedin.com/in/aditya-patil-a7743a292)
 
 ---
-
 ## 🏁 Google Summer of Code 2025 (GSoC)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aditya948351/Hosting/refs/heads/main/GSoC-icon.svg.png" alt="GSoC Logo" width="100" />
 </p>
 
-🌍 **Actively engaging with open-source communities**  
-🧩 Exploring organizations in **Android**, **AI/ML**, and **Python Backend** domains  
-✍️ Drafting proposals aligned with organizational roadmaps  
-🔗 [GSoC Official Website](https://summerofcode.withgoogle.com/)
+🌍 **Kicking off my GSoC 2025 journey from June 2024!**  
+🧩 Exploring organizations in **Android**, **AI/ML**, **Python Backend**, and **Open Source Systems**  
+✍️ Actively contributing to open-source projects, fixing bugs, and drafting proposals  
+🔗 [GSoC Official Website](https://summerofcode.withgoogle.com/) | [My Contributions](https://github.com/Aditya948351?tab=repositories)
 
----
-
-## 📌 My GSoC Contributions
-
-Here are a few of my contributions towards GSoC 2025:
-
-- 🔧 [Fix: Optimized image loading in Gallery Module](https://github.com/org/repo/pull/1234) – Merged ✅  
-- ✨ [Feature: Added voice search to app](https://github.com/org/repo/pull/5678) – Merged ✅  
-- 🧪 [Test: Added unit tests for login flow](https://github.com/org/repo/pull/9876) – Under Review ⏳
-
-> 🎯 *More contributions are on the way – actively fixing bugs, engaging in discussions, and supporting community goals.*
-
----
 
 ## 🏆 GitHub Trophies
 
