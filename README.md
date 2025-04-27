@@ -11,7 +11,7 @@
 - 🔭 Currently contributing to **Open Source via GSoC 2025**
 - 🌱 Learning & building with **Jetpack Compose**, **Flask**, **FastAPI**, and **ML models**
 - 👯 Actively looking to collaborate on **Open Source | Android Dev | AI Projects**
-- 📚 Gearing up for **Google Summer of Code 2025 (GSoC)** – exploring organizations, submitting patches, and writing proposals
+- 📚 Gearing up for **Google Summer of Code 2026 (GSoC)** – exploring organizations, submitting patches, and writing proposals
 - 💡 Passionate about building **impact-driven, scalable, and intelligent systems**
 - 📫 Connect with me on [Instagram](https://www.instagram.com/aditya516227?igsh=MXQ4MjJ6NnR6Z241Ng==) or [LinkedIn](https://linkedin.com/in/aditya-patil-a7743a292)
 
