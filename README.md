@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Amol Patil</h1>
-<h3 align="center">GSoC 2025 Aspirant | Android & Backend Developer | Open Source Contributor | AI/ML Explorer | Python Backend Expert</h3>
+<h3 align="center">Android & Backend Developer | Open Source Contributor | AI/ML Explorer | Python Backend Expert</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya948351&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
