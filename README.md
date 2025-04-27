@@ -16,6 +16,7 @@
 - 📫 Connect with me on [Instagram](https://www.instagram.com/aditya516227?igsh=MXQ4MjJ6NnR6Z241Ng==) or [LinkedIn](https://linkedin.com/in/aditya-patil-a7743a292)
 
 ---
+
 ## 🏁 Google Summer of Code 2025 (GSoC)
 
 <p align="center">
@@ -27,6 +28,7 @@
 ✍️ Actively contributing to open-source projects, fixing bugs, and drafting proposals  
 🔗 [GSoC Official Website](https://summerofcode.withgoogle.com/) | [My Contributions](https://github.com/Aditya948351?tab=repositories)
 
+---
 
 ## 🏆 GitHub Trophies
 
@@ -100,6 +102,12 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40"/>
   </a>
 </p>
+
+---
+
+## 💼 Open Source Contributions
+
+- 🔧 **[Repository Name]** – to add 
 
 ---
 
