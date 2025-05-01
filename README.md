@@ -17,16 +17,16 @@
 
 ---
 
-## 🏁 Google Summer of Code 2025 (GSoC)
+## 🏁 Google Summer of Code 2026 (GSoC)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aditya948351/Hosting/refs/heads/main/GSoC-icon.svg.png" alt="GSoC Logo" width="100" />
 </p>
 
-🌍 **Kicking off my GSoC 2025 journey from June 2024!**  
-🧩 Exploring organizations in **Android**, **AI/ML**, **Python Backend**, and **Open Source Systems**  
+🌍 **Kicking off my GSoC 2026 journey from June 2025!**  
+🧩 Exploring organizations in **Kotlin**, **Android**, **AI/ML**, **Python Backend**, and **Open Source Systems**  
 ✍️ Actively contributing to open-source projects, fixing bugs, and drafting proposals  
-🔗 [GSoC Official Website](https://summerofcode.withgoogle.com/) | [My Contributions](https://github.com/Aditya948351?tab=repositories)
+🔗 [My Contributions](https://github.com/Aditya948351?tab=repositories)
 
 ---
 
