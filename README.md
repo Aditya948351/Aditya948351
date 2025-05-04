@@ -47,15 +47,16 @@
   <a href="https://kotlinlang.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50"/> 
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="[https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg](https://github.com/Aditya948351/Hosting/blob/main/Icons/firebase.png?raw=true)" alt="Firebase" width="50" height="50"/> 
-  </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://github.com/Aditya948351/Hosting/blob/main/Icons/firebase.png?raw=true" alt="Firebase" width="50" height="50"/> 
   </a>
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50"/> 
   </a>
+  
   <a href="https://opencv.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50"/> 
   </a>
