@@ -63,6 +63,9 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/> 
   </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Aditya948351/Hosting/refs/heads/main/Icons/isl/Java.png?raw=true" alt="Git" width="50" height="50"/> 
+  </a>
 </p>
 
 ---
