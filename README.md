@@ -111,7 +111,7 @@
 
 ## 💼 Open Source Contributions
 
-- 🔧 **[RadioWave]** – Updated Readme.md 
+- 🔧 **[RadioWave]** – Completed 3 issues Updated Readme.md 
 
 ---
 
