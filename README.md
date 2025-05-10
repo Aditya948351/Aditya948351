@@ -18,40 +18,31 @@
 
 ---
 
-## 🏁 Google Summer of Code 2026 (GSoC)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya948351/Hosting/refs/heads/main/GSoC-icon.svg.png" alt="GSoC Logo" width="100" />
-</p>
-
-🌍 **Kicking off my GSoC 2026 journey from June 2025!**  
-🧩 Exploring organizations in **Kotlin**, **Android**, **AI/ML**, **Python Backend**, and **Open Source Systems**  
-✍️ Actively contributing to open-source projects, fixing bugs, and drafting proposals  
-🔗 [My Contributions](https://github.com/Aditya948351?tab=repositories)
-
----
-
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya948351&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditya948351&theme=radical&no-frame=false&no-bg=false"/>
 </p>
 
 ---
 
-
 <h2 align="left">🚀 My Tech Stack</h2>
-
 <table>
   <tr>
-    <th align="left">Frontend</th>
-    <th align="left">Backend</th>
-    <th align="left">Hosting / Deployment</th>
-    <th align="left">Tools & IDEs</th>
+    <th align="center">Frontend</th>
+    <th align="center">Backend</th>
+    <th align="center">Hosting</th>
+    <th align="center">Tools & IDEs</th>
   </tr>
   <tr>
     <!-- Frontend -->
-    <td>
+    <td align="center">
+      <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+      </a>
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+      </a>
       <a href="https://reactjs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
       </a>
@@ -61,15 +52,9 @@
       <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
       </a>
-      <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-      </a>
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-      </a>
     </td>
     <!-- Backend -->
-    <td>
+    <td align="center">
       <a href="https://nodejs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
       </a>
@@ -87,7 +72,7 @@
       </a>
     </td>
     <!-- Hosting -->
-    <td>
+    <td align="center">
       <a href="https://railway.app/" target="_blank">
         <img src="https://railway.app/brand/logo-light.svg" alt="Railway" width="40" height="40"/>
       </a>
@@ -102,7 +87,7 @@
       </a>
     </td>
     <!-- Tools -->
-    <td>
+    <td align="center">
       <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
       </a>
@@ -130,7 +115,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
