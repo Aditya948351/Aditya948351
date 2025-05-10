@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Amol Patil</h1>
+<h2 align="center">I am Second Year Information Technology Engineering Student From Amrutvahini College of Engineering,Sangamner,Maharashtra.</h2>
 <h3 align="center">Android & Backend Developer | Open Source Contributor | AI/ML Explorer | Python Backend Expert</h3>
 
 <p align="center">
