@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently contributing to **Open Source via GSoC 2025**
+- 🔭 Currently working on **Android Development with Jetpack Compose**
 - 🌱 Learning & building with **Jetpack Compose**, **Flask**, **FastAPI**, and **ML models**
 - 👯 Actively looking to collaborate on **Open Source | Android Dev | AI Projects**
 - 📚 Gearing up for **Google Summer of Code 2026 (GSoC)** – exploring organizations, submitting patches, and writing proposals
