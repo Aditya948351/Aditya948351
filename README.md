@@ -86,7 +86,7 @@
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
       </a>
       <a href="https://colab.research.google.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Colaboratory.svg" alt="Colab" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/Aditya948351/Hosting/6591ec90308b66c5a931eca609c180bc882ec173/Google_Colaboratory_SVG_Logo.svg" alt="Colab" width="40" height="40"/>
       </a>
     </td>
     <!-- Tools -->
@@ -113,7 +113,7 @@
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
       </a>
       <a href="https://www.canva.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="40" height="40"/>
+        <img src="https://github.com/Aditya948351/Hosting/blob/main/canva-icon.png?raw=true" alt="Canva" width="40" height="40"/>
       </a>
     </td>
   </tr>
