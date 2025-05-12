@@ -165,7 +165,9 @@
 
 ## 💼 Open Source Contributions
 
-- 🔧 **[RadioWave]** – Completed 3 issues Updated Readme.md 
+- 🔧 **[RadioWave]** – Completed 3 issues Updated Readme.md
+- 🔧 **[QBC]** – Successfully merged 2 PRs
+- 🔧 **[Smile]** – Successfully merged 1 PRs
 
 ---
 
@@ -173,3 +175,6 @@
 
 > 🔥 *"Being Always hopeful and Impatient"* 
 > 💡 *Let’s innovate, contribute, and build the future together – one line of code at a time!* 🚀
+>
+
+[![Aditya's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya948351&theme=dark&year=2025)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
