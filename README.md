@@ -29,9 +29,10 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya948351&theme=radical&no-frame=false&no-bg=false"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditya948351&theme=radical&no-frame=false&no-bg=false&rank=SSS,SS,S,AAA,AA,A,B&column=5"/>
 </p>
+
 
 ---
 
