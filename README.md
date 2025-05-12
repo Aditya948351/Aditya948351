@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpycXRndTM3c214ZzllY2ducHBnMHE0d2VhcXQ0N3Zqc25rbHFhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
+  
 <h1 align="center">Hi 👋, I'm Aditya Amol Patil</h1>
 <h2 align="center">I am Second Year Information Technology Engineering Student From Amrutvahini College of Engineering,Sangamner,Maharashtra.</h2>
 <div align="center">
@@ -11,13 +14,16 @@
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently working on **Android Development with Jetpack Compose**
-- 🌱 Learning & building with **Jetpack Compose**, **Flask**, **FastAPI**, and **ML models**
-- 👯 Actively looking to collaborate on **Open Source | Android Dev | AI Projects**
-- 📚 Gearing up for **Google Summer of Code 2026 (GSoC)** – exploring organizations, submitting patches, and writing proposals
-- 💡 Passionate about building **impact-driven, scalable, and intelligent systems**
-- 📫 Connect with me on [Instagram](https://www.instagram.com/aditya516227?igsh=MXQ4MjJ6NnR6Z241Ng==) or [LinkedIn](https://linkedin.com/in/aditya-patil-a7743a292)
+<h2>🚀 About Me</h2>
+<ul align="left">    
+  <li>🔭 Currently working on <strong>Android Development with Jetpack Compose</strong></li>
+  <li>🌱 Learning & building with <strong>Jetpack Compose</strong>, <strong>Flask</strong>, <strong>FastAPI</strong>, and <strong>ML models</strong></li>
+  <li>👯 Actively looking to collaborate on <strong>Open Source</strong>, <strong>Android Dev</strong>, and <strong>AI Projects</strong></li>
+  <li>📚 Gearing up for <strong>Google Summer of Code 2026 (GSoC)</strong> – exploring organizations, submitting patches, and writing proposals</li>
+  <li>💡 Passionate about building <strong>impact-driven</strong>, <strong>scalable</strong>, and <strong>intelligent systems</strong></li>
+  <li>📫 Connect with me on <a href="https://www.instagram.com/aditya516227?igsh=MXQ4MjJ6NnR6Z241Ng==" target="_blank"><strong>Instagram</strong></a> or <a href="https://linkedin.com/in/aditya-patil-a7743a292" target="_blank"><strong>LinkedIn</strong></a></li>
+</ul>
+
 
 ---
 
@@ -163,11 +169,12 @@
 
 ---
 
-## 💼 Open Source Contributions
-
-- 🔧 **[RadioWave]** – Completed 3 issues Updated Readme.md
-- 🔧 **[QBC]** – Successfully merged 2 PRs
-- 🔧 **[Smile]** – Successfully merged 1 PRs
+<h2>💼 Open Source Contributions</h2>
+<ul align="left">
+  <li>🔧 <strong><a href="https://github.com/Aditya948351/RadioWave" target="_blank">RadioWave</a></strong> – Completed 3 issues, updated <code>README.md</code></li>
+  <li>🔧 <strong><a href="https://github.com/Aditya948351/QBC" target="_blank">QBC</a></strong> – Successfully merged 2 PRs</li>
+  <li>🔧 <strong><a href="https://github.com/Aditya948351/Smile" target="_blank">Smile</a></strong> – Successfully merged 1 PR</li>
+</ul>
 
 ---
 
