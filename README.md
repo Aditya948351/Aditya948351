@@ -173,8 +173,8 @@
 <h2>💼 Open Source Contributions</h2>
 <ul align="left">
   <li>🔧 <strong><a href="https://github.com/Aditya948351/RadioWave" target="_blank">RadioWave</a></strong> – Completed 3 issues, updated <code>README.md</code></li>
-  <li>🔧 <strong><a href="https://github.com/Aditya948351/QBC" target="_blank">QBC</a></strong> – Successfully merged 2 PRs</li>
-  <li>🔧 <strong><a href="https://github.com/Aditya948351/Smile" target="_blank">Smile</a></strong> – Successfully merged 1 PR</li>
+  <li>🔧 <strong><a href="https://github.com/Shahid6174/QBC" target="_blank">QBC</a></strong> – Successfully merged 2 PRs</li>
+  <li>🔧 <strong><a href="https://github.com/Shahid6174/Smile" target="_blank">Smile</a></strong> – Successfully merged 1 PR</li>
 </ul>
 
 ---
