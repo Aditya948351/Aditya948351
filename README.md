@@ -5,10 +5,10 @@
 
 <h3 align="center">Android & Backend Developer | Open Source Contributor | AI/ML Explorer | Python Backend Expert</h3>
 
-<h3>My GitRoll Stats</h3>
+<h1>My GitRoll Stats</h1>
 
 <details>
-  <summary> Click here </summary>
+  <summary>See Profile</summary>
   <br>
     <a href="https://gitroll.io/profile/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2?theme=tokyoNight" alt="GitRoll Profile Badge"/>
   </a>
