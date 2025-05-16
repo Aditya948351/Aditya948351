@@ -11,7 +11,7 @@
 <details>
   <summary> Click here </summary>
   <br>
-  <a href="https://gitroll.io/profile/" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uMZcGY1XUZ7YaGdlFg8Twr8a01lz2?theme=midnight" alt="GitRoll Profile Badge"/></a>
+  <a href="https://gitroll.io/profile/" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/?theme=midnight" alt="GitRoll Profile Badge"/></a>
 </details>
 
 <p href="https://github.com/Aditya948351" align="center">
