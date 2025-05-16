@@ -11,7 +11,8 @@
 <details>
   <summary> Click here </summary>
   <br>
-  <a href="https://gitroll.io/profile/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/?theme=midnight" alt="GitRoll Profile Badge"/></a>
+    <a href="https://gitroll.io/profile/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2?theme=tokyoNight" alt="GitRoll Profile Badge"/>
+  </a>
 </details>
 
 <p href="https://github.com/Aditya948351" align="center">
