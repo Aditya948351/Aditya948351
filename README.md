@@ -3,9 +3,7 @@
   
 <h1 align="center">Hi 👋, I'm Aditya Amol Patil</h1>
 <h2 align="center">I am Second Year Information Technology Engineering Student From Amrutvahini College of Engineering,Sangamner,Maharashtra.</h2>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Aditya948351/count.svg?"  />
-</div>
+
 <h3 align="center">Android & Backend Developer | Open Source Contributor | AI/ML Explorer | Python Backend Expert</h3>
 
 <p align="center">
@@ -186,3 +184,7 @@
 >
 
 [![Aditya's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya948351&theme=dark&year=2025)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Aditya948351/count.svg?"  />
+</div>
