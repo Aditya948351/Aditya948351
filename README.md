@@ -2,7 +2,6 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpycXRndTM3c214ZzllY2ducHBnMHE0d2VhcXQ0N3Zqc25rbHFhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
   
 <h1 align="center">Hi 👋, I'm Aditya Amol Patil</h1>
-<h2 align="center">I am Second Year Information Technology Engineering Student From Amrutvahini College of Engineering,Sangamner,Maharashtra.</h2>
 
 <h3 align="center">Android & Backend Developer | Open Source Contributor | AI/ML Explorer | Python Backend Expert</h3>
 
