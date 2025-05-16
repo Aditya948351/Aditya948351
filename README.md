@@ -174,7 +174,7 @@
       <!-- GitHub Stats and Streak Stats -->
       <td width="50%" valign="middle">
         <a href="https://github.com/Aditya948351">
-        <img src="https://quotes-github-readme.vercel.app/api?&theme=merko" alt="Dev Quote" />          
+        <img src="https://quotes-github-readme.vercel.app/api?type="vertical"&theme=merko" alt="Dev Quote" />          
         </a>
         <br />
       </td>
