@@ -5,7 +5,7 @@
 
 <h3 align="center">Android & Backend Developer | Open Source Contributor | AI/ML Explorer | Python Backend Expert</h3>
 
-<h1>My GitRoll Stats</h1>
+<h2>My GitRoll Stats</h2>
 
 <details>
   <summary>See Profile</summary>
