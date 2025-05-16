@@ -134,7 +134,7 @@
 <div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya948351&show_icons=true&locale=en&layout=compact" alt="Aditya948351" /></p>
   <br><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aditya948351&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya948351&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" width="49%" height="50%" alt="GitHub Streak Stats"/>
 </div>
 
 ---
