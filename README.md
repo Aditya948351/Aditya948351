@@ -129,25 +129,50 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya948351&show_icons=true&locale=en&layout=compact" alt="Aditya948351" /></p>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya948351&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" width="49%" height="50%" alt="GitHub Streak Stats"/>
+<div>
+  <h1><strong>📊 GitHub Stats</strong></h1>
+  <table width="50%">
+    <tr>
+      <!-- Most Used Languages -->
+      <td width="50%" valign="middle">
+        <a href="https://github.com/Aditya948351">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya948351&hide=html,css&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=highcontrast" width="100%" height="275px" />
+        </a>
+      </td>
+      <!-- GitHub Stats and Streak Stats -->
+      <td width="50%" valign="middle">
+        <a href="https://github.com/Aditya948351">
+          <img src="https://github-readme-stats.vercel.app/api?username=Aditya948351&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" width="100%" height="100%" alt="GitHub Streak Stats"/>
+        </a>
+        <br />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ## 🔝 Streak & Quotes
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya948351&theme=dracula" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" alt="Dev Quote" />
+<div>
+  <table width="50%">
+    <tr>
+      <!-- Most Used Languages -->
+      <td width="50%" valign="middle">
+        <a href="https://github.com/Aditya948351">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya948351&theme=dracula" alt="GitHub Streak" />
+        </a>
+      </td>
+      <!-- GitHub Stats and Streak Stats -->
+      <td width="50%" valign="middle">
+        <a href="https://github.com/Aditya948351">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote" />          
+        </a>
+        <br />
+      </td>
+    </tr>
+  </table>
 </div>
-
----
 
 ## 🔗 Connect with Me
 
@@ -185,6 +210,6 @@
 
 [![Aditya's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya948351&theme=dark&year=2025)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<div align="center">
+<div href="https://github.com/Aditya948351" align="center">
   <img src="https://profile-counter.glitch.me/Aditya948351/count.svg?"  />
 </div>
