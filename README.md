@@ -3,7 +3,7 @@
 
 <h3 align="center">Android & Backend Developer | Open Source Contributor | AI/ML Explorer | Python Backend Expert</h3>
 
-<h2>My GitRoll Stats</h2>
+<h2 align="center">My GitRoll Stats</h2>
 
 <details>
   <summary>See Profile</summary>
