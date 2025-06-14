@@ -12,6 +12,8 @@
   </a>
 </details> 
 
+---
+
 <h2>🚀 About Me</h2>
 <ul align="left">    
   <li>🔭 Currently working on <strong>Android Development with Jetpack Compose</strong></li>
@@ -201,12 +203,10 @@
 </ul>
 
 ---
+<p align="center">
+<strong>🔥<i>"Being Always hopeful and Impatient"</i></strong>
+</p>
 
-## 🧠 Final Words
-> 🔥 *"Being Always hopeful and Impatient"* 
-> 💡 *Let’s innovate, contribute, and build the future together – one line of code at a time!* 🚀
-
-[![Aditya's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya948351&theme=dark&year=2025)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <div href="https://github.com/Aditya948351" align="center">
   <img src="https://profile-counter.glitch.me/Aditya948351/count.svg?"  />
