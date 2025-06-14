@@ -154,7 +154,7 @@
 ## 🔝 Streak & Quotes
 
 <div>
-  <table width="50%">
+  <table width="100%" align="center">
     <tr>
       <!-- Most Used Languages -->
       <td width="50%" valign="middle">
@@ -202,7 +202,6 @@
 ---
 
 ## 🧠 Final Words
-
 > 🔥 *"Being Always hopeful and Impatient"* 
 > 💡 *Let’s innovate, contribute, and build the future together – one line of code at a time!* 🚀
 
