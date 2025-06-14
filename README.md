@@ -12,12 +12,6 @@
   </a>
 </details> 
 
-<p href="https://github.com/Aditya948351" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aditya948351&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
 <h2>🚀 About Me</h2>
 <ul align="left">    
   <li>🔭 Currently working on <strong>Android Development with Jetpack Compose</strong></li>
@@ -25,7 +19,6 @@
   <li>👯 Actively looking to collaborate on <strong>Open Source</strong>, <strong>Android Dev</strong>, and <strong>AI Projects</strong></li>
   <li>📚 Gearing up for <strong>Google Summer of Code 2026 (GSoC)</strong> – exploring organizations, submitting patches, and writing proposals</li>
   <li>💡 Passionate about building <strong>impact-driven</strong>, <strong>scalable</strong>, and <strong>intelligent systems</strong></li>
-  <li>📫 Connect with me on <a href="https://www.instagram.com/aditya516227?igsh=MXQ4MjJ6NnR6Z241Ng==" target="_blank"><strong>Instagram</strong></a> or <a href="https://linkedin.com/in/aditya-patil-a7743a292" target="_blank"><strong>LinkedIn</strong></a></li>
 </ul>
 
 
@@ -34,7 +27,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya948351&theme=radical&no-frame=false&no-bg=false&rank=SSS,SS,S,AAA,AA,A,B&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditya948351&theme=radical&no-frame=false&no-bg=false&column=9"/>
 </p>
 
 
@@ -212,7 +205,6 @@
 
 > 🔥 *"Being Always hopeful and Impatient"* 
 > 💡 *Let’s innovate, contribute, and build the future together – one line of code at a time!* 🚀
->
 
 [![Aditya's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya948351&theme=dark&year=2025)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
