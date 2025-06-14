@@ -1,5 +1,5 @@
  
-<h1 align="center">Hi 👋, I'm Aditya Amol Patil</h1>
+<h1 align="center">Hi 👋, I'm Aditya Patil</h1>
 
 <h3 align="center">Android & Backend Developer | Open Source Contributor | AI/ML Explorer | Python Backend Expert</h3>
 
