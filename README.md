@@ -253,7 +253,7 @@
       <td><a href="https://github.com/Aditya948351/Code-Interpreter-and-Debugger">Code-Interpreter-and-Debugger</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Aditya948351/Python_CWH">Python (CWH)</a></td>
+      <td><a href="https://github.com/Aditya948351/Python">Python (CWH)</a></td>
       <td><a href="https://github.com/Aditya948351/Ravi1">Ravi1 – part 1 of IoT Competition</a></td>
       <td></td>
     </tr>
@@ -263,7 +263,7 @@
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Aditya948351/CPP">C++</a></td>
+      <td><a href="https://github.com/Aditya948351/CPP-Documentation">C++</a></td>
       <td><a href="https://github.com/Aditya948351/CodeBrahma">CodeBrahma</a></td>
       <td></td>
     </tr>
