@@ -219,8 +219,7 @@
 </div>
 
 
-
-<h2 align="center">📋 Repositories Structure</h2>
+<h2 align="center">📋 Repos Structure</h2>
 
 <div align="center">
 
@@ -234,51 +233,52 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Adiytya948351/Web_dev">Web_dev</a></td>
-      <td><a href="https://github.com/Adiytya948351/AR-Model">AR-Model = Girl talker</a></td>
-      <td><a href="https://github.com/Adiytya948351/Web_Scrapping_API">Web_Scrapping_API</a></td>
+      <td><a href="https://github.com/Aditya948351/Web_dev">Web_dev</a></td>
+      <td><a href="https://github.com/Aditya948351/AR-Model">AR-Model = Girl talker</a></td>
+      <td><a href="https://github.com/Aditya948351/Web_Scrapping_API">Web_Scrapping_API</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Adiytya948351/Kotlin_Jetpack_Compose-Simplified">Kotlin_Jetpack_Compose-Simplified</a></td>
-      <td><a href="https://github.com/Adiytya948351/RasaSetu">RasaSetu</a></td>
-      <td><a href="https://github.com/Adiytya948351/Code-Snippet-Manager">Code-Snippet-Manager</a></td>
+      <td><a href="https://github.com/Aditya948351/Kotlin_Jetpack_Compose-Simplified">Kotlin_Jetpack_Compose-Simplified</a></td>
+      <td><a href="https://github.com/Aditya948351/RasaSetu">RasaSetu</a></td>
+      <td><a href="https://github.com/Aditya948351/Code-Snippet-Manager">Code-Snippet-Manager</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Adiytya948351/Android-Jetpack-Compose-Simplified">Android Jetpack Compose Simplified</a></td>
-      <td><a href="https://github.com/Adiytya948351/Engilearn">Engilearn</a></td>
-      <td><a href="https://github.com/Adiytya948351/Mistral_OCR_API">Mistral_OCR_API</a></td>
+      <td><a href="https://github.com/Aditya948351/Android_Jetpack_Compose_Simplified">Android Jetpack Compose Simplified</a></td>
+      <td><a href="https://github.com/Aditya948351/Engilearn">Engilearn</a></td>
+      <td><a href="https://github.com/Aditya948351/Mistral_OCR_API">Mistral_OCR_API</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Adiytya948351/Java">Java</a></td>
-      <td><a href="https://github.com/Adiytya948351/AI-Virtual-Mouse">AI Virtual Mouse</a></td>
-      <td><a href="https://github.com/Adiytya948351/Code-Interpreter-and-Debugger">Code-Interpreter-and-Debugger</a></td>
+      <td><a href="https://github.com/Aditya948351/Java">Java</a></td>
+      <td><a href="https://github.com/Aditya948351/AI_Virtual_Mouse">AI Virtual Mouse</a></td>
+      <td><a href="https://github.com/Aditya948351/Code-Interpreter-and-Debugger">Code-Interpreter-and-Debugger</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Adiytya948351/Python-CWH">Python (CWH)</a></td>
-      <td><a href="https://github.com/Adiytya948351/Ravi1">Ravi1 – part 1 of IoT Competition</a></td>
+      <td><a href="https://github.com/Aditya948351/Python_CWH">Python (CWH)</a></td>
+      <td><a href="https://github.com/Aditya948351/Ravi1">Ravi1 – part 1 of IoT Competition</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Adiytya948351/Leetcode">Leetcode</a></td>
-      <td><a href="https://github.com/Adiytya948351/Student_Feedback_Tracker">Student_Feedback_Tracker</a></td>
+      <td><a href="https://github.com/Aditya948351/Leetcode">Leetcode</a></td>
+      <td><a href="https://github.com/Aditya948351/Student_Feedback_Tracker">Student_Feedback_Tracker</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Adiytya948351/CPP">C++</a></td>
-      <td><a href="https://github.com/Adiytya948351/CodeBrahma">CodeBrahma</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td><a href="https://github.com/Adiytya948351/Marg_Vedha_Main">Marg_Vedha_Main</a></td>
+      <td><a href="https://github.com/Aditya948351/CPP">C++</a></td>
+      <td><a href="https://github.com/Aditya948351/CodeBrahma">CodeBrahma</a></td>
       <td></td>
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://github.com/Adiytya948351/Face_Recognition_with_Raspberry_Pi">Face_Recognition_with_Raspberry_Pi</a></td>
+      <td><a href="https://github.com/Aditya948351/Marg_Vedha_Main">Marg_Vedha_Main</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="https://github.com/Aditya948351/Face_Recognition_with_Raspberry_Pi">Face_Recognition_with_Raspberry_Pi</a></td>
       <td></td>
     </tr>
   </tbody>
 </table>
 
 </div>
+
