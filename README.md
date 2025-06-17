@@ -249,7 +249,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/Aditya948351/Java">Java</a></td>
-      <td><a href="https://github.com/Aditya948351/AI_Virtual_Mouse">AI Virtual Mouse</a></td>
+      <td><a href="https://github.com/Aditya948351/AI-Virtual-Mouse">AI Virtual Mouse</a></td>
       <td><a href="https://github.com/Aditya948351/Code-Interpreter-and-Debugger">Code-Interpreter-and-Debugger</a></td>
     </tr>
     <tr>
