@@ -238,12 +238,12 @@
       <td><a href="https://github.com/Aditya948351/Web_Scrapping_API">Web_Scrapping_API</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Aditya948351/Kotlin_Jetpack_Compose-Simplified">Kotlin_Jetpack_Compose-Simplified</a></td>
+      <td><a href="https://github.com/Aditya948351/Kotlin-Jetpack-Compose">Kotlin_Jetpack_Compose-Simplified</a></td>
       <td><a href="https://github.com/Aditya948351/RasaSetu">RasaSetu</a></td>
       <td><a href="https://github.com/Aditya948351/Code-Snippet-Manager">Code-Snippet-Manager</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Aditya948351/Android_Jetpack_Compose_Simplified">Android Jetpack Compose Simplified</a></td>
+      <td><a href="https://github.com/Aditya948351/Android-Jetpack-Compose-Simplified">Android Jetpack Compose Simplified</a></td>
       <td><a href="https://github.com/Aditya948351/Engilearn">Engilearn</a></td>
       <td><a href="https://github.com/Aditya948351/Mistral_OCR_API">Mistral_OCR_API</a></td>
     </tr>
