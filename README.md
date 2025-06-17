@@ -269,7 +269,7 @@
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://github.com/Aditya948351/Marg_Vedha_Main">Marg_Vedha_Main</a></td>
+      <td><a href="https://github.com/Aditya948351/MargVedhaMain">Marg_Vedha_Main</a></td>
       <td></td>
     </tr>
     <tr>
