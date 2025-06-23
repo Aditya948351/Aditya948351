@@ -272,7 +272,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/Aditya948351/CPP-Documentation">C++</a></td>
-      <td><a href="https://github.com/Aditya948351/CodeBrahma">CodeBrahma</a></td>
+      <td><a href="https://github.com/Aditya948351/CodeBrahma-An-app-for-Developers">CodeBrahma-An-app-for-Developers</a></td>
       <td></td>
     </tr>
     <tr>
