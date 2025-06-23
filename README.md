@@ -7,42 +7,38 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00A1F7&center=true&vCenter=true&width=850&lines=%F0%9F%9A%80+Jetpack+Compose+%7C+Web+Development+%7C+GitHub+Driven+Learning" alt="Typing SVG" />
   </a>
 </p>
-
 <h2 align="center">My GitRoll Stats</h2>
 
-<table width="200%" align="center">
+<details>
+  <summary align="center">See Profile</summary>
+  <br>
+    <a href="https://gitroll.io/profile/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2?theme=dark" alt="GitRoll Profile Badge"/></a>
+  </a>
+</details> 
+
+---
+
+<h2 align="center">🚀 About Me</h2>
+
+<table width="100%" align="center">
   <tr>
-    <td width="50%" valign="middle" align="center">
-      <details>
-        <summary><strong>See Profile</strong></summary>
-        <br />
-        <a href="https://gitroll.io/profile/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2" target="_blank">
-          <img src="https://gitroll.io/api/badges/profiles/v1/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2?theme=dark" alt="GitRoll Profile Badge" />
-        </a>
-      </details>
+    <!-- About Me Text -->
+    <td width="60%" valign="top" align="left">
+      <ul>
+        <li>🔭 Currently working on <strong>Android Development with Jetpack Compose</strong></li>
+        <li>🌱 Learning & building with <strong>Jetpack Compose</strong>, <strong>Flask</strong>, <strong>FastAPI</strong>, and <strong>ML models</strong></li>
+        <li>👯 Actively looking to collaborate on <strong>Open Source</strong>, <strong>Android Dev</strong>, and <strong>AI Projects</strong></li>
+        <li>📚 Gearing up for <strong>Google Summer of Code 2026 (GSoC)</strong> – exploring organizations, submitting patches, and writing proposals</li>
+        <li>💡 Passionate about building <strong>impact-driven</strong>, <strong>scalable</strong>, and <strong>intelligent systems</strong></li>
+      </ul>
     </td>
-    <!-- AR generated gif -->
-    <td width="100%" valign="middle" align="center">
-      <img src="https://github.com/Aditya948351/Used-Images/raw/main/download-ezgif.com-speed.gif" alt="Git Activity GIF" height="100" />
+    <!-- GIF -->
+    <td width="40%" valign="middle" align="center">
+      <img src="https://github.com/Aditya948351/Used-Images/raw/main/download-ezgif.com-speed.gif" alt="Git Activity GIF" height="150" />
     </td>
   </tr>
 </table>
 
-
-
-
-
-
----
-
-<h2>🚀 About Me</h2>
-<ul align="left">    
-  <li>🔭 Currently working on <strong>Android Development with Jetpack Compose</strong></li>
-  <li>🌱 Learning & building with <strong>Jetpack Compose</strong>, <strong>Flask</strong>, <strong>FastAPI</strong>, and <strong>ML models</strong></li>
-  <li>👯 Actively looking to collaborate on <strong>Open Source</strong>, <strong>Android Dev</strong>, and <strong>AI Projects</strong></li>
-  <li>📚 Gearing up for <strong>Google Summer of Code 2026 (GSoC)</strong> – exploring organizations, submitting patches, and writing proposals</li>
-  <li>💡 Passionate about building <strong>impact-driven</strong>, <strong>scalable</strong>, and <strong>intelligent systems</strong></li>
-</ul>
 
 
 ---
