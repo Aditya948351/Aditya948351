@@ -12,7 +12,7 @@
 <details>
   <summary align="center">See Profile</summary>
   <br>
-    <a href="https://gitroll.io/profile/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2?theme=dark" alt="GitRoll Profile Badge"/></a>
+    <a href="https://gitroll.io/profile/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2?theme=dark" alt="GitRoll Profile Badge"/>
   </a>
 </details> 
 
