@@ -12,7 +12,6 @@
 
 <table width="200%" align="center">
   <tr>
-    <!-- GitRoll Profile with Collapsible Details -->
     <td width="50%" valign="middle" align="center">
       <details>
         <summary><strong>See Profile</strong></summary>
@@ -22,7 +21,7 @@
         </a>
       </details>
     </td>
-    <!-- Always Visible GIF -->
+    <!-- AR generated gif -->
     <td width="100%" valign="middle" align="center">
       <img src="https://github.com/Aditya948351/Used-Images/raw/main/download-ezgif.com-speed.gif" alt="Git Activity GIF" height="100" />
     </td>
