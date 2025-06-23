@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00A1F7&center=true&vCenter=true&width=850&lines=%F0%9F%9A%80+Jetpack+Compose+%7C+Web+Development+%7C+GitHub+Driven+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00A1F7&center=true&vCenter=true&width=850&lines=%F0%9F%9A%80+Jetpack+Compose+%7C+Web+Development+%7C+Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 <h2 align="center">My GitRoll Stats</h2>
