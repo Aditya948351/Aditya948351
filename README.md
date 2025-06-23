@@ -22,7 +22,6 @@
 
 <table width="100%" align="center">
   <tr>
-    <!-- About Me Text -->
     <td width="60%" valign="top" align="left">
       <ul>
         <li>🔭 Currently working on <strong>Android Development with Jetpack Compose</strong></li>
@@ -32,9 +31,8 @@
         <li>💡 Passionate about building <strong>impact-driven</strong>, <strong>scalable</strong>, and <strong>intelligent systems</strong></li>
       </ul>
     </td>
-    <!-- GIF -->
     <td width="40%" valign="middle" align="center">
-      <img src="https://github.com/Aditya948351/Used-Images/raw/main/download-ezgif.com-speed.gif" alt="Git Activity GIF" height="150" />
+      <img src="https://github.com/Aditya948351/Used-Images/raw/main/download-ezgif.com-speed.gif" alt="Git Activity GIF" />
     </td>
   </tr>
 </table>
