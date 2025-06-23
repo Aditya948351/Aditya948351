@@ -8,15 +8,31 @@
   </a>
 </p>
 
-
 <h2 align="center">My GitRoll Stats</h2>
 
-<details>
-  <summary align="center">See Profile</summary>
-  <br>
-    <a href="https://gitroll.io/profile/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2?theme=dark" alt="GitRoll Profile Badge"/></a>
-  </a>
-</details> 
+<table width="200%" align="center">
+  <tr>
+    <!-- GitRoll Profile with Collapsible Details -->
+    <td width="50%" valign="middle" align="center">
+      <details>
+        <summary><strong>See Profile</strong></summary>
+        <br />
+        <a href="https://gitroll.io/profile/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2" target="_blank">
+          <img src="https://gitroll.io/api/badges/profiles/v1/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2?theme=dark" alt="GitRoll Profile Badge" />
+        </a>
+      </details>
+    </td>
+    <!-- Always Visible GIF -->
+    <td width="100%" valign="middle" align="center">
+      <img src="https://github.com/Aditya948351/Used-Images/raw/main/download-ezgif.com-speed.gif" alt="Git Activity GIF" height="100" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 ---
 
