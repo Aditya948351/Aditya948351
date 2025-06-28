@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Patil</h1>
 
+
+
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00A1F7&repeat=false&width=1800&lines=Android+%26+Backend+Developer+%7C+Open+Source+Contributor+%7C+AI%2FML+Explorer+%7C+Python+Backend+Expert" alt="Typing SVG"/></p>
 
 <p align="center">
@@ -14,6 +16,33 @@
   <br>
     <a href="https://gitroll.io/profile/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2?theme=dark" alt="GitRoll Profile Badge"/></a>
 </details> 
+
+```mermaid
+graph TD
+  A[🚀 About Me] --> B[🔭 Currently Working On\nAndroid Dev, Jetpack Compose]
+  A --> C[🌱 Learning\nFlask, FastAPI, ML Models]
+  A --> D[👯 Open Source Collaborations]
+  A --> E[📚 GSoC 2026 Prep]
+
+  B --> F[💻 Jetpack Compose Projects]
+  C --> G[🧪 AI/ML Explorations]
+  D --> H[✅ Contributed to\nRadioWave, QBC, Smile]
+  E --> I[📋 Exploring Orgs\n🛠 Submitting Patches]
+
+  H --> J[📈 GitHub Stats & Trophies]
+  F --> J
+  G --> J
+  I --> J
+
+  J --> K[🗂 Repos Structure]
+  K --> L[📚 Docs]
+  K --> M[🚀 Projects]
+  K --> N[🔗 APIs]
+
+  J --> O[🔗 Socials\nLinkedIn, HackerRank, etc.]
+
+
+```
 
 ---
 
