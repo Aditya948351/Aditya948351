@@ -44,8 +44,7 @@ graph TD
 
 ```
 
----
-
+<!---
 <h2 align="center">🚀 About Me</h2>
 
 <table width="100%" align="center">
@@ -64,7 +63,7 @@ graph TD
     </td>
   </tr>
 </table>
-
+--->
 
 
 ---
