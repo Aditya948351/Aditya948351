@@ -19,15 +19,15 @@
 
 ```mermaid
 graph TD
-  A[🚀 About Me] --> B[🔭 Currently Working On\nAndroid Dev, Jetpack Compose]
-  A --> C[🌱 Learning\nFlask, FastAPI, ML Models]
+  A[🚀 About Me] --> B[🔭 Currently Working On Android Dev, Jetpack Compose]
+  A --> C[🌱 Learning Flask, FastAPI, ML Models]
   A --> D[👯 Open Source Collaborations]
   A --> E[📚 GSoC 2026 Prep]
 
   B --> F[💻 Jetpack Compose Projects]
   C --> G[🧪 AI/ML Explorations]
-  D --> H[✅ Contributed to\nRadioWave, QBC, Smile]
-  E --> I[📋 Exploring Orgs\n🛠 Submitting Patches]
+  D --> H[✅ Contributed to RadioWave, QBC, Smile]
+  E --> I[📋 Exploring Orgs 🛠 Submitting Patches]
 
   H --> J[📈 GitHub Stats & Trophies]
   F --> J
@@ -39,7 +39,7 @@ graph TD
   K --> M[🚀 Projects]
   K --> N[🔗 APIs]
 
-  J --> O[🔗 Socials\nLinkedIn, HackerRank, etc.]
+  J --> O[🔗 Socials LinkedIn, HackerRank, etc.]
 
 
 ```
