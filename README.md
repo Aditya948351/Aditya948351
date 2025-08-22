@@ -16,36 +16,7 @@
     <a href="https://gitroll.io/profile/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2?theme=dark" alt="GitRoll Profile Badge"/></a>
 </details> 
 
-```mermaid
-graph TD
-  A[🚀 About Me] --> B[🔭 Currently Working On Android Dev, Jetpack Compose]
-  A --> C[🌱 Learning Flask, FastAPI, ML Models]
-  A --> D[👯 Open Source Collaborations]
-  A --> E[📚 GSoC 2026 Prep]
-
-  B --> F[💻 Jetpack Compose Projects]
-  C --> G[🧪 AI/ML Explorations]
-  D --> H[✅ Contributed to RadioWave, QBC, Smile]
-  E --> I[📋 Exploring Orgs 🛠 Submitting Patches]
-
-  H --> J[📈 GitHub Stats & Trophies]
-  F --> J
-  G --> J
-  I --> J
-
-  J --> K[🗂 Repos Structure]
-  K --> L[📚 Docs]
-  K --> M[🚀 Projects]
-  K --> N[🔗 APIs]
-
-  J --> O[🔗 Socials LinkedIn, HackerRank, etc.]
-
-
-```
-
-<!---
 <h2 align="center">🚀 About Me</h2>
-
 <table width="100%" align="center">
   <tr>
     <td width="60%" valign="top" align="left">
@@ -62,9 +33,6 @@ graph TD
     </td>
   </tr>
 </table>
---->
-
-
 ---
 
 ## 🏆 GitHub Trophies
