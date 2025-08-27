@@ -201,12 +201,12 @@
   <tr>
     <td width="50%" valign="top">
       <p>
-      <strong><a href="https://github.com/Aditya948351">👨‍💻 CodeBrahma </a></strong></p>
+      <strong><a href="[https://github.com/Aditya948351](https://github.com/Aditya948351/CodeBrahma-An-app-for-Developers)">👨‍💻 CodeBrahma </a></strong></p>
       An app built for developers to streamline their workflow.<br />
       <img src="https://img.shields.io/badge/status-in--progress-yellow" />
     </td>
     <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/Aditya948351">🚘 MargVedha </a></strong></p>
+      <p><strong><a href="[https://github.com/Aditya948351](https://github.com/Aditya948351/MargVedhaMain)">🚘 MargVedha </a></strong></p>
       Real-time traffic optimization system using smart routing.<br />
       <img src="https://img.shields.io/badge/status-in--progress-yellow" />
     </td>
@@ -215,12 +215,12 @@
   <!-- Row 2 -->
   <tr>
     <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/Aditya948351">🏠 Ravi AI </a></strong></p>
+      <p><strong><a href="[https://github.com/Aditya948351](https://github.com/Aditya948351/RAVI1)">🏠 Ravi AI </a></strong></p>
       Raspberry Pi-based smart home automation system with a desktop voice assistant.<br />
       <img src="https://img.shields.io/badge/status-completed-brightgreen" />
     </td>
     <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/Aditya948351">🤚💻 AI Virtual Mouse</a></strong></p>
+      <p><strong><a href="[https://github.com/Aditya948351](https://github.com/Aditya948351/AI-Virtual-Mouse)">🤚💻 AI Virtual Mouse</a></strong></p>
       Control your mouse with OpenCV-powered hand gesture recognition.<br />
       <img src="https://img.shields.io/badge/status-completed-brightgreen" />
     </td>
@@ -229,12 +229,12 @@
   <!-- Row 3 -->
   <tr>
     <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/Aditya948351">😥😁🎶💬😎 RasaSetu</a></strong></p>
+      <p><strong><a href="[https://github.com/Aditya948351](https://github.com/Aditya948351/RasaSetu)">😥😁🎶💬😎 RasaSetu</a></strong></p>
       Emotional wellness platform with mood-based music, AR chat, and more.<br />
       <img src="https://img.shields.io/badge/status-OpenSource-white" />
     </td>
     <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/Aditya948351">🐍 Web tech News Scrapper</a></strong></p>
+      <p><strong><a href="[https://github.com/Aditya948351](https://github.com/Aditya948351/Web_Scrapping_API)">🐍 Web tech News Scrapper</a></strong></p>
       Python API scraping developer-focused news from the web.<br />
       <img src="https://img.shields.io/badge/status-completed-brightgreen" />
     </td>
@@ -243,12 +243,12 @@
   <!-- Row 4 -->
   <tr>
     <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/Aditya948351">🗒️👨‍💻 Code Snippet Manager </a></strong></p>
+      <p><strong><a href="[https://github.com/Aditya948351](https://github.com/Aditya948351/Code-Snippet-manager)">🗒️👨‍💻 Code Snippet Manager </a></strong></p>
       A personal snippet manager inspired by GitHub Gists.<br />
       <img src="https://img.shields.io/badge/status-completed-brightgreen" />
     </td>
     <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/Aditya948351">🎓🏫 Avcoe Projects</a></strong></p>
+      <p><strong><a href="[https://github.com/Aditya948351](https://github.com/Aditya948351/avcoe)">🎓🏫 Avcoe Projects</a></strong></p>
       Mini projects and college practicals completed during coursework.<br />
       <img src="https://img.shields.io/badge/status-completed-brightgreen" />
     </td>
