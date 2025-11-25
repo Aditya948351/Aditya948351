@@ -277,9 +277,3 @@
 <p align="center">
 <strong>🔥<i>"I architect systems the way leaders shape futures — strategically, boldly, decisively."</i></strong>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aditya948351/aditya948351/raw/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/aditya948351/aditya948351/raw/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/aditya948351/aditya948351/raw/output/github-contribution-grid-snake.svg">
-</picture>
