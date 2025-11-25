@@ -11,7 +11,7 @@
 <details>
   <summary align="center">See Profile</summary>
   <br>
-    <a href="https://gitroll.io/profile/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2?theme=dark" alt="GitRoll Profile Badge"/></a>
+    <a href="https://gitroll.io/profile/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ubGQ1D9x6NWP8q3WI1eDXJrtekvx2?theme=solarizedDark" alt="GitRoll Profile Badge"/></a>
 </details>
 </p>
 
@@ -154,26 +154,22 @@
 
 ---
 
-<div>
-  <h1><strong>📊 GitHub Stats</strong></h1>
-  <table width="50%">
-    <tr>
-      <!-- Most Used Languages -->
-      <td width="50%" valign="middle">
-        <a href="https://github.com/Aditya948351">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya948351&hide=html,css,typescript&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=highcontrast" width="100%" height="275px" />
-        </a>
-      </td>
-      <!-- GitHub Stats and Streak Stats -->
-      <td width="50%" valign="middle">
-        <a href="https://github.com/Aditya948351">
-          <img src="https://github-readme-stats.vercel.app/api?username=Aditya948351&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" width="100%" height="100%" alt="GitHub Streak Stats"/>
-        </a>
-        <br />
-      </td>
-    </tr>
-  </table>
-</div>
+
+</p>
+    <!-- GitHub Stats -->
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=aditya948351&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=aditya948351&count_private=true&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&rank_icon=github&border_radius=20&hide_border=true"/>
+        <img alt="GitHub Stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=aditya948351&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true" width="48%"/>
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=aditya948351&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=aditya948351&count_private=true&border_radius=20&ring=000000&stroke=000000&background=ffffff&fire=ff0000&currStreakNum=000000&sideNums=000000&datesside=000000&Labelscurr=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&border=000000&hide_border=true"/>
+        <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aditya&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true" width="48%"/>
+    </picture>
+</p>
+
+
 
 ---
 
@@ -265,6 +261,17 @@
 </table>
 
 </p>
+
+
+
+
+<a href="https://github.com/Aditya948351">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aditya948351&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Aditya's%20Github%20Contribution%20Graph">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aditya948351&theme=light&hide_border=true&hide_title=false&area=true&custom_title=Aditya's%20Github%20Contribution%20Graph">
+        <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aditya948351&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Aditya's%20Github%20Contribution%20Graph" width="96%"/>
+    </picture>
+</a>
 
 
 
