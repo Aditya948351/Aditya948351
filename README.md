@@ -173,29 +173,6 @@
 
 ---
 
-## 🔝 Streak & Quotes
-
-<div>
-  <table width="100%" align="center">
-    <tr>
-      <!-- Most Used Languages -->
-      <td width="50%" valign="middle">
-        <a href="https://github.com/Aditya948351">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya948351&theme=dracula" alt="GitHub Streak" />
-        </a>
-      </td>
-      <!-- GitHub Stats and Streak Stats -->
-      <td width="50%" valign="middle">
-        <a href="https://github.com/Aditya948351">
-        <img src="https://quotes-github-readme.vercel.app/api?type="vertical"&theme=merko" alt="Dev Quote" />          
-        </a>
-        <br />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
 <p>
 <div align="center">
   <h2><strong>🌟 Upcoming & Active Projects 🌟</strong></h2>
