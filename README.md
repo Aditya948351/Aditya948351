@@ -185,12 +185,12 @@
       <p>
       <strong><a href="[https://github.com/Aditya948351](https://github.com/Aditya948351/CodeBrahma-An-app-for-Developers)">👨‍💻 CodeBrahma </a></strong></p>
       An app built for developers to streamline their workflow.<br />
-      <img src="https://img.shields.io/badge/status-in--progress-yellow" />
+      <img src="https://img.shields.io/badge/status-OpenSource-white" /> <a href="https://github.com/Aditya948351/CodeBrahma-An-app-for-Developers" style="background-color: #007bff; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; display: inline-block; margin-left: 8px; font-size: 12px;">Visit</a>
     </td>
     <td width="50%" valign="top">
       <p><strong><a href="[https://github.com/Aditya948351](https://github.com/Aditya948351/MargVedhaMain)">🚘 MargVedha </a></strong></p>
       Real-time traffic optimization system using smart routing.<br />
-      <img src="https://img.shields.io/badge/status-in--progress-yellow" />
+      <img src="https://img.shields.io/badge/status-OpenSource-white" />
     </td>
   </tr>
 
@@ -233,6 +233,43 @@
       <p><strong><a href="[https://github.com/Aditya948351](https://github.com/Aditya948351/avcoe)">🎓🏫 Avcoe Projects</a></strong></p>
       Mini projects and college practicals completed during coursework.<br />
       <img src="https://img.shields.io/badge/status-completed-brightgreen" />
+    </td>
+  </tr>
+  
+  <!-- Row 5 -->
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/Aditya948351/DevPath-Web">📱 DevPath-Web</a></strong></p>
+      A comprehensive developer learning platform for coding paths and resources.<br />
+      <img src="https://img.shields.io/badge/status-completed-brightgreen" />
+    </td>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/Aditya948351/Kotlin-Docs">📚 Kotlin Docs</a></strong></p>
+      Complete Kotlin documentation with examples and best practices.<br />
+      <img src="https://img.shields.io/badge/status-in--progress-yellow" />
+    </td>
+  </tr>
+  
+  <!-- Row 6 -->
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/Aditya948351/Saksham">🎨 Saksham - Kotlin App</a></strong></p>
+      A beautiful Android app built with Jetpack Compose for accessibility features.<br />
+      <img src="https://img.shields.io/badge/status-completed-brightgreen" />
+      <br /><br />
+      <strong>Skills Used:</strong><br />
+      <table style="border: none;">
+        <tr>
+          <td style="border: none; text-align: center; width: 50%;"><strong>Kotlin</strong></td>
+          <td style="border: none; text-align: center; width: 50%;"><strong>Jetpack Compose</strong></td>
+        </tr>
+        <tr>
+          <td style="border: none; text-align: center;"><strong>Firebase</strong></td>
+          <td style="border: none; text-align: center;"><strong>Material Design</strong></td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
