@@ -291,3 +291,8 @@
 <p align="center">
 <strong>🔥<i>"I architect systems the way leaders shape futures — strategically, boldly, decisively."</i></strong>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aditya948351&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" />
+</p>
+
