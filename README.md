@@ -108,13 +108,13 @@
     <!-- Extras -->
     <td align="center">
       <a href="https://railway.app/" target="_blank">
-        <img src="https://railway.app/brand/logo-light.svg" alt="Railway" width="40" height="40"/>
+        <img src="https://railway.app/brand/logo-light.svg" alt="Railway" width="25" height="25"/>
       </a>
       <a>
         <img src="https://skillicons.dev/icons?i=gcp,opencv,pytorch,raspberrypi,react,sklearn,selenium,threejs,ubuntu,vercel,yarn" />        
       </a>
       <a href="https://colab.research.google.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/Aditya948351/Hosting/6591ec90308b66c5a931eca609c180bc882ec173/Google_Colaboratory_SVG_Logo.svg" alt="Colab" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/Aditya948351/Hosting/6591ec90308b66c5a931eca609c180bc882ec173/Google_Colaboratory_SVG_Logo.svg" alt="Colab" width="25" height="25"/>
       </a>
     </td>
     <!-- Tools -->
@@ -123,10 +123,10 @@
         <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,git,ai,linux,matlab,notion,figma,postman,mysql,blender" />
       </a>
       <a href="https://huggingface.co/" target="_blank">
-        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/>
+        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="25" height="25"/>
       </a>
       <a href="https://www.canva.com/" target="_blank">
-        <img src="https://github.com/Aditya948351/Hosting/blob/main/canva-icon.png?raw=true" alt="Canva" width="40" height="40"/>
+        <img src="https://github.com/Aditya948351/Hosting/blob/main/canva-icon.png?raw=true" alt="Canva" width="25" height="25"/>
       </a>
     </td>
   </tr>
