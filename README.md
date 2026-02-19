@@ -59,7 +59,7 @@
   <a href="https://www.stackoverflow.com/users/30919839/aditya-patil" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" title="Stack Overflow" /> </a> 
   <a href="https://instagram.com/aditya516227" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
-  </a>11
+  </a>
   <a href="https://www.hackerrank.com/ap8548328" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="50" width="50"/>
   </a>
