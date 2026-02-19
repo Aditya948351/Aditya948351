@@ -108,7 +108,7 @@
     <!-- Extras -->
     <td align="center">
       <a href="https://railway.app/" target="_blank">
-        <img src="https://railway.app/brand/logo-light.svg" alt="Railway" width="25" height="25"/>
+        <img src="https://railway.app/brand/logo-light.svg" alt="Railway" width="20" height="20"/>
       </a>
       <a>
         <img src="https://skillicons.dev/icons?i=gcp,opencv,pytorch,raspberrypi,react,sklearn,selenium,threejs,ubuntu,vercel,yarn" />        
@@ -123,10 +123,10 @@
         <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,git,ai,linux,matlab,notion,figma,postman,mysql,blender" />
       </a>
       <a href="https://huggingface.co/" target="_blank">
-        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="25" height="25"/>
+        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20" height="20"/>
       </a>
       <a href="https://www.canva.com/" target="_blank">
-        <img src="https://github.com/Aditya948351/Hosting/blob/main/canva-icon.png?raw=true" alt="Canva" width="25" height="25"/>
+        <img src="https://github.com/Aditya948351/Hosting/blob/main/canva-icon.png?raw=true" alt="Canva" width="20" height="20"/>
       </a>
     </td>
   </tr>
