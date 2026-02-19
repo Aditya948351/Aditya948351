@@ -73,14 +73,14 @@
   <tr>
     <th align="center">Frontend</th>
     <th align="center">Backend</th>
-    <th align="center">Databases/Hosting</th>
+    <th align="center">Extra Techs</th>
     <th align="center">Tools & IDEs</th>
   </tr>
   <tr>
     <!-- Frontend -->
     <td align="center">
       <a href="https://developer.android.com/courses/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=kotlin,html,css" />
+        <img src="https://skillicons.dev/icons?i=kotlin,html,css,bootstrap,vite" />
       </a>
       <!-- <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -105,16 +105,13 @@
         <img src="https://skillicons.dev/icons?i=python,java,kotlin,django,flask" />
       </a>
     </td>
-    <!-- Hosting -->
+    <!-- Extras -->
     <td align="center">
       <a href="https://railway.app/" target="_blank">
         <img src="https://railway.app/brand/logo-light.svg" alt="Railway" width="40" height="40"/>
       </a>
-      <a href="https://render.com/" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/41714161?s=200&v=4" alt="Render" width="40" height="40"/>
-      </a>
-      <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+      <a>
+        <img src="https://skillicons.dev/icons?i=gcp,opencv,pytorch,raspberrypi,react,sklearn,selenium,threejs,ubuntu,vercel,yarn" />        
       </a>
       <a href="https://colab.research.google.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/Aditya948351/Hosting/6591ec90308b66c5a931eca609c180bc882ec173/Google_Colaboratory_SVG_Logo.svg" alt="Colab" width="40" height="40"/>
@@ -123,7 +120,7 @@
     <!-- Tools -->
     <td align="center">
       <a href="https://developer.android.com/courses/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,postman,mysql,blender" />
+        <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,git,ai,linux,matlab,notion,figma,postman,mysql,blender" />
       </a>
       <a href="https://huggingface.co/" target="_blank">
         <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/>
