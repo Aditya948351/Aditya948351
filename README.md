@@ -20,16 +20,26 @@
   <tr>
     <td width="60%" valign="top" align="left">
       <ul>
-        <li>🔭 Currently working on <strong>Android Development with Jetpack Compose</strong></li>
-        <li>🌱 Learning & building with <strong>Jetpack Compose</strong>, <strong>Flask</strong>, <strong>FastAPI</strong>, and <strong>ML models</strong></li>
+        <li>🔭 Currently working on <strong>DSA (formerly learnt Android Developement with Compose)</strong></li>
+        <li>🌱 Learning & building with <strong>Jetpack Compose</strong>, Python FullStack and <strong>ML models</strong></li>
         <li>👯 Actively looking to collaborate on <strong>Open Source</strong>, <strong>Android Dev</strong>, and <strong>AI Projects</strong></li>
         <li>📚 Gearing up for <strong>Google Summer of Code 2026 (GSoC)</strong> – exploring organizations, submitting patches, and writing proposals</li>
-        <li>💡 Passionate about building <strong>impact-driven</strong>, <strong>scalable</strong>, and <strong>intelligent systems</strong></li>
+        <li>💡 Passionate about building <strong>impactful</strong>, <strong>scalable</strong>, and <strong>intelligent AI systems</strong></li>
       </ul>
     </td>
-    <td width="40%" valign="middle" align="center">
-      <img src="https://github.com/Aditya948351/Used-Images/raw/main/download-ezgif.com-speed.gif" alt="Git Activity GIF" />
+    <td width="40%" valign="middle" align="left">
+    <ul>
+        <h2>🌍 Open Source and Community</h2>
+        <li>1️⃣ IEEE Summer Of Code</li>
+        <li>2️⃣ Open Source Connect Global</li>
+        <li>3️⃣ DevPath Community Founder</li>
+        <li>4️⃣ HacktoberFest 2025</li>
+        <li>5️⃣ GirlScript Summer of Code 2025 - Project Admin, Mentor and Contributor</li>
+      </ul>
     </td>
+    <!-- <td width="40%" valign="middle" align="center">
+      <img src="https://github.com/Aditya948351/Used-Images/raw/main/download-ezgif.com-speed.gif" alt="Git Activity GIF" />
+    </td> -->
   </tr>
 </table>
 
@@ -289,7 +299,7 @@
 
 
 <p align="center">
-<strong>🔥<i>"I architect systems the way leaders shape futures — strategically, boldly, decisively."</i></strong>
+<strong>🔥<i>"I architect systems the way leaders shape futures - strategically, boldly, decisively."</i></strong>
 </p>
 
 <p align="center">
