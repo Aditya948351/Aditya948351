@@ -122,26 +122,11 @@
     </td>
     <!-- Tools -->
     <td align="center">
-      <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-      </a>
-      <a href="https://developer.android.com/studio" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
-      </a>
-      <a href="https://www.jetbrains.com/idea/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
-      </a>
-      <a href="https://www.postman.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-      </a>
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+      <a href="https://developer.android.com/courses/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,postman,mysql,blender" />
       </a>
       <a href="https://huggingface.co/" target="_blank">
         <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/>
-      </a>
-      <a href="https://www.blender.org/" target="_blank">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
       </a>
       <a href="https://www.canva.com/" target="_blank">
         <img src="https://github.com/Aditya948351/Hosting/blob/main/canva-icon.png?raw=true" alt="Canva" width="40" height="40"/>
