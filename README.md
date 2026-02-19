@@ -29,7 +29,7 @@
     </td>
     <td width="40%" valign="middle" align="left">
     <ul>
-        <h2>🌍 Open Source and Community</h2>
+        <h2>🌍 Open Source</h2>
         <li>1️⃣ IEEE Summer Of Code</li>
         <li>2️⃣ Open Source Connect Global</li>
         <li>3️⃣ DevPath Community Founder</li>
