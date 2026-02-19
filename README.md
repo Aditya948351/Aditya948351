@@ -46,25 +46,25 @@
 
 <p align="center"> 
   <a href="https://chat.whatsapp.com/CvNRDJAUoR71oo2v77TmJj">
-    <img src="https://avatars.githubusercontent.com/u/5508982?s=200&v=4" alt="Whatsapp Community" height=32 width="32" />
+    <img src="https://avatars.githubusercontent.com/u/5508982?s=200&v=4" alt="Whatsapp Community" height=50 width="50" />
   </a>
-  <a href="[https://www.linkedin.com/in/hhhh](https://www.linkedin.com/in/aditya-patil-a7743a292/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </a> 
-  <a href="https://www.gitlab.com/aaa" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /></a> 
-  <a href="[https://www.x.com/aaa](https://x.com/AdityaPati84490)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </a> 
-  <a href="[http://www.medium.com/dsfdf](https://medium.com/@ap8548328)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </a>  
-  <a href="[https://www.youtube.com/@ffdsfs](https://www.youtube.com/channel/UCGimy_9gWm3yc4KvOVOs7GQ)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </a> 
-  <a href="https://codepen.io/Aditya948351" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" alt="CodePen" title="CodePen" /> </a> 
-  <a href="https://discord.com/users/hhrhtfff" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </a> 
-  <a href="https://www.facebook.com/hhjk" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </a> 
-  <a href="https://www.stackoverflow.com/users/30919839/aditya-patil" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </a> 
+  <a href="[https://www.linkedin.com/in/hhhh](https://www.linkedin.com/in/aditya-patil-a7743a292/)" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> 
+  <a href="https://www.gitlab.com/aaa" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" title="GitLab" /></a> 
+  <a href="[https://www.x.com/aaa](https://x.com/AdityaPati84490)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="50" height="50" alt="Twitter" title="Twitter" /> </a> 
+  <a href="[http://www.medium.com/dsfdf](https://medium.com/@ap8548328)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="50" height="50" alt="Medium" title="Medium" /> </a>  
+  <a href="[https://www.youtube.com/@ffdsfs](https://www.youtube.com/channel/UCGimy_9gWm3yc4KvOVOs7GQ)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="50" height="50" alt="YouTube" title="YouTube" /> </a> 
+  <a href="https://codepen.io/Aditya948351" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" title="CodePen" /> </a> 
+  <a href="https://discord.com/users/hhrhtfff" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=discord" alt="Discord" title="Discord" /> </a> 
+  <a href="https://www.facebook.com/hhjk" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="50" height="50" alt="Facebook" title="Facebook" /> </a> 
+  <a href="https://www.stackoverflow.com/users/30919839/aditya-patil" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" title="Stack Overflow" /> </a> 
   <a href="https://instagram.com/aditya516227" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="32"/>
-  </a>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+  </a>11
   <a href="https://www.hackerrank.com/ap8548328" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="32" width="32"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="50" width="50"/>
   </a>
   <a href="https://www.leetcode.com/adityapatil8793" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="32" width="32"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="50"/>
   </a>
 </p>
 
