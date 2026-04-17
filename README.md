@@ -67,7 +67,7 @@
 <p align="center">
   <a href="https://chat.whatsapp.com/CvNRDJAUoR71oo2v77TmJj"><img src="https://avatars.githubusercontent.com/u/5508982?s=200&v=4" height="48"/></a><br><br>
 
-  <a href="https://www.linkedin.com/in/aditya-patil-a7743a292/"><img src="https://skillicons.dev/icons?i=linkedin" height="48"/></a><br><br>
+  <a href="https://www.linkedin.com/in/aditya-patil-a7743a292/"><img src="https://skillicons.dev/icons?i=linkedin" height="48"/></a>
 
   <a href="https://www.gitlab.com/aaa"><img src="https://skillicons.dev/icons?i=gitlab" height="48"/></a><br><br>
 
