@@ -64,7 +64,7 @@
 
 <h2 align="center">📬 Connect With Me</h2>
 
-<p align="center"> 
+<p align="center" width="100%"> 
   <a href="https://chat.whatsapp.com/CvNRDJAUoR71oo2v77TmJj" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/5508982?s=200&v=4" alt="Whatsapp Community" height="48" width="48" style="border-radius: 50%;" />
   </a>
