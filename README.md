@@ -208,7 +208,7 @@
     <td width="50%" valign="top">
       <h3>🚘 <a href="https://github.com/Aditya948351/MargVedhaMain">MargVedha</a></h3>
       <p>Real-time traffic optimization system using smart routing.</p>
-      <a href="https://github.com/Aditya948351/MargVedhaMain"><img src="https://img.shields.io/badge/status-OpenSource-white?style=for-the-badge&logo=github" /></a>
+      <a href="https://github.com/Aditya948351/MargVedhaMain"><img src="https://img.shields.io/badge/status-Private-black?style=for-the-badge&logo=github" /></a>
     </td>
   </tr>
 
