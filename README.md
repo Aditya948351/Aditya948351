@@ -183,6 +183,11 @@
 <br/>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya948351&show_icons=true&theme=radical&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya948351&layout=compact&theme=radical&hide_border=true&langs_count=20&hide=html,css,tex,procfile,plpgsql,shell" />
+</div>
+
+<div align="center">
   <a href="https://github.com/Aditya948351">
       <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aditya948351&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Aditya's%20Github%20Contribution%20Graph"/>
